@@ -16,6 +16,8 @@ If you find any errors in this week's issue, [please submit a PR](https://github
 
 ## News & Blog Posts
 
+* [The rise of wgpu-rs](https://gfx-rs.github.io/2019/03/06/wgpu.html).
+
 # Crate of the Week
 
 This week's crate is [multi_try](https://github.com/JoshMcguigan/multi_try), a crate to simplify working with multiple results. Thanks to [Azriel Hoh](https://users.rust-lang.org/t/crate-of-the-week/2704/495) for the suggestion!
