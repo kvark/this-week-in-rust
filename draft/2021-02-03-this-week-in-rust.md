@@ -14,11 +14,15 @@ If you find any errors in this week's issue, [please submit a PR](https://github
 
 # Updates from Rust Community
 
+[gfx-rs ecosystem releases v0.7](https://gfx-rs.github.io/2021/02/02/release-0.7.html)
+
 ### Official
 
 ### Newsletters
 
 ### Project/Tooling Updates
+
+[PL] [CrabbyBird #5 Obsługa kolizji](https://postacnormalna.pl/crabbybird-5-obsluga-kolizji/)
 
 ### Observations/Thoughts
 
